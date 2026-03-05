@@ -80,7 +80,7 @@ export function buildEmail(mail: Mail) {
     )
 
     .addTextDisplayComponents(
-      new TextDisplayBuilder().setContent("-# **Exolt - Mails**"),
+      new TextDisplayBuilder().setContent("-# <:exolt:1478918439161561110> I **EXOLT - MAILS**"),
     );
 
   return container;
